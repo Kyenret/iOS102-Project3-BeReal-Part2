@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] Fetch the 10 most recent photos within the last 24 hours from the server
 
 ## Video Walkthrough
 
@@ -32,8 +32,8 @@ The following **additional** features are implemented:
     </a>
    
 ## Notes
-
-Describe any challenges encountered while building the app.
+- Please note that photos were manually added to the simulator's Photos app prior to recording the video walkthrough.
+- I faced difficulties when attempting to include location data with posts, enable comment interaction, and receive notifications for posting reminders. While I managed to successfully implement the posting reminder notification feature, integrating location data with posts and enabling comment interaction posed challenges that I could not overcome.
 
 ## License
 
