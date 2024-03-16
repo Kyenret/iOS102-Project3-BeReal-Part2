@@ -1,24 +1,24 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *BeReal. Clone*
 
-Submitted by: **Your Name Here**
+Submitted by: **Kyenret Yakubu Ayuba**
 
-**Name of your app** is an app that introduces ... [TODO] 
+**BeReal. Clone** is an app that is designed to replicate key features found in the popular app, BeReal. Within this platform, users are prompted with random notifications throughout the day to share a photo of their current activity. It is only after posting a photo that users gain access to view their friends' posts.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
 - [ ] User can launch camera to take photo instead of photo library
-  - [ ] Users without iPhones to demo this feature can manually add unique photos to their simulator's Photos app
+  - [x] Users without iPhones to demo this feature can manually add unique photos to their simulator's Photos app
 - [ ] Users can intereact with posts via comments, comments will have user data such as username and name
-- [ ] Posts have a time and location attached to them
-- [ ] Users are not able to see other photos until they post their own (within 24 hours)    
+- [x] Posts have a time and location attached to them
+- [x] Users are not able to see other photos until they post their own (within 24 hours)    
  
 The following **optional** features are implemented:
 
-- [ ] User receive notifcation when it is time to post
+- [x] User receive notifcation when it is time to post
 
 The following **additional** features are implemented:
 
@@ -26,17 +26,18 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
+<div>
+    <a href="https://www.loom.com/share/203fbd6003cb4301bf07ccac3d7bc9db">
+      <p>Simulator - iPhone 15 Pro - 15 March 2024 - Watch Video</p>
+    </a>
+   
 ## Notes
 
 Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Kyenret Yakubu Ayuba]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
